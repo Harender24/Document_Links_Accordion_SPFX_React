@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-documents-link-accordion-client-side-solution",
+    "id": "d916cf45-ac6a-472c-8e66-fee87e4b1e27",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-documents-link-accordion description"
+      },
+      "longDescription": {
+        "default": "react-documents-link-accordion description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-documents-link-accordion Feature",
+        "description": "The feature that activates elements of the react-documents-link-accordion solution.",
+        "id": "40dce7ed-f126-4c4a-a6a9-94cc4e55a399",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-documents-link-accordion.sppkg"
+  }
+}

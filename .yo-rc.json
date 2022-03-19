@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "react-documents-link-accordion",
+    "libraryId": "d916cf45-ac6a-472c-8e66-fee87e4b1e27",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-documents-link-accordion",
+    "solutionShortDescription": "react-documents-link-accordion description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
